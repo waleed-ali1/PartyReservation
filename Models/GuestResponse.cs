@@ -1,4 +1,4 @@
-namespace PartyRSVP.Models {
+namespace PartyReservation.Models {
     public class GuestResponse {
 
         public int Id { get; set; }

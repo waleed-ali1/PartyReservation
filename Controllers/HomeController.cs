@@ -17,7 +17,7 @@ namespace PartyReservation.Controllers
         {
             _logger = logger;
         }
-
+        
         public IActionResult Index()
         {
             return View();
@@ -25,10 +25,17 @@ namespace PartyReservation.Controllers
         public IActionResult Rsvp () {
             return View ("Rsvp");
         }
-        // public IActionResult Privacy()
-        // {
-        //     return View();
-        // }
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+         [HttpPost]              
+        public ViewResult RsvpForm(GuestResponse guestResponse) {
+            // Todo: Store guest response, covered in later lessons
+         return View("thanks", guestResponse);
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

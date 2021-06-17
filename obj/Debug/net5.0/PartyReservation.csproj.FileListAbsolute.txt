@@ -39,3 +39,4 @@ C:\Users\onibarca\Desktop\SHIFT-Backend course\ASPnet C#\Party_reservation_proj\
 C:\Users\onibarca\Desktop\SHIFT-Backend course\ASPnet C#\Party_reservation_proj\PartyReservation\obj\Debug\net5.0\PartyReservation.pdb
 C:\Users\onibarca\Desktop\SHIFT-Backend course\ASPnet C#\Party_reservation_proj\PartyReservation\obj\Debug\net5.0\PartyReservation.genruntimeconfig.cache
 C:\Users\onibarca\Desktop\SHIFT-Backend course\ASPnet C#\Party_reservation_proj\PartyReservation\obj\Debug\net5.0\PartyReservation.csproj.CopyComplete
+C:\Users\onibarca\Desktop\SHIFT-Backend course\ASPnet C#\Party_reservation_proj\PartyReservation\obj\Debug\net5.0\Razor\Views\Home\thanks.cshtml.g.cs
